@@ -64,8 +64,8 @@ Je suis actuellement en reconversion vers le métier de **Data Engineer**. Motiv
 ---
 
 ## 🎓 Formations  
-🎓 **Data Engineer RNCP Niveau 7** – *Datascientest* (Mars 2025 - Mars 2027)  
-🎯 **Data Analyst RNCP Niveau 6** – *Wild Code School* (Sept. 2024 - Fév. 2025)  
+🎯 **Data Engineer RNCP Niveau 7** – *Datascientest* (Mars 2025 - Mars 2027)  
+🎓 **Data Analyst RNCP Niveau 6** – *Wild Code School* (Sept. 2024 - Fév. 2025)  
 
 ---
 
