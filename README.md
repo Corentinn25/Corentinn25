@@ -4,7 +4,8 @@
 
 Bienvenue sur mon profil GitHub ! 🎉  
 Je suis actuellement en reconversion vers le métier de **Data Engineer**. Motivé à relever des défis techniques en apportant des solutions innovantes.
-À la recherche d'une entreprise pour une formation **Data Engineer en alternance** à partir de mars 2025, je suis déterminé à mettre mes nouvelles compétences au service de projets passionnants.
+
+**À la recherche d'une entreprise pour une formation Data Engineer en alternance** à partir de mars 2025, je suis déterminé à mettre mes nouvelles compétences au service de projets passionnants.
 
 📊 **Collecter, structurer, valoriser la donnée et analyser la donnée, c'est mon quotidien !**  
 
