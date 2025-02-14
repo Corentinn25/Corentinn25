@@ -20,7 +20,7 @@ Je suis actuellement en reconversion vers le métier de **Data Engineer**. Motiv
 ### 🛠️ Outils de développement  
 - 💻 **VS Code** : Mon environnement de développement principal.  
 - 🐬 **Dbeaver / Workbench** : Manipulation efficace de bases SQL.  
-- 📓 **Jupyter Notebook / Google Colab** : Analyses exploratoires et prototypage.  
+- 📓 **Jupyter Notebook / Google Colab** : Analyses exploratoires.  
 - 🔗 **Git & GitHub** : Versioning, collaboration, branches et open source.  
 - 🐳 **Docker** : Conteneurisation et déploiement d'applications.  
 
@@ -38,7 +38,7 @@ Je suis actuellement en reconversion vers le métier de **Data Engineer**. Motiv
 
 ### 🌍 Collecte et intégration de données  
 - 🕷️ **Web Scraping** : Extraction avec **BeautifulSoup** et **Selenium**.  
-- 🔌 **API REST** : Requêtes et création d'API avec **FastAPI / Flask**.  
+- 🔌 **API** : Requêtes et création d'API avec **FastAPI / Flask**.  
 
 ### 🤖 Analyse de données & Machine Learning  
 - 🔍 **EDA (Exploratory Data Analysis)** : Analyse exploratoire avec **Pandas, NumPy**.  
