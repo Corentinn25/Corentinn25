@@ -52,13 +52,21 @@ Je suis actuellement en reconversion vers le métier de **Data Engineer**. Motiv
 
 ## 🌟 Soft Skills  
 🤝 Travail d'équipe
+
 🔎 Esprit d'analyse
+
 🗣️ Communication
+
 🧩 Résolution de problèmes
+
 🌱 Adaptabilité
+
 🧠 Curieux
+
 👥 Collaboration
+
 ⏰ Gestion du temps
+
 🗂️ Organisation
 
 ---
