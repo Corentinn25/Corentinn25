@@ -1,7 +1,7 @@
 # 🎯 Corentin Rochard
 
 **Data Analyst @ Industrie du luxe** 💎 
-*Analyste passionné qui explore l'ingénierie pour donner plus de puissance à mes projets.*
+*Analyste passionné qui explore l'ingénierie pour donner plus de puissance à ses projets.*
 
 ---
 
