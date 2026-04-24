@@ -6,7 +6,7 @@
 **Mon approche :** "En faire plus pour en faire moins."  
 > *Investir du temps dans l'automatisation pour libérer de la valeur là où elle compte vraiment.*
 
-- **Mes terrains de jeu :** Le trail running et la NFL.
+**Mes terrains de jeu data :** Le trail running et la NFL.
 
 ---
 
