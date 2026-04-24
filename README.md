@@ -8,9 +8,10 @@
 ### 🚀 Au-delà de l'analyse...
 Actuellement en alternance, je dépasse le cadre de la simple analyse pour construire mes propres outils. Ma curiosité me pousse vers le **Data Engineering** pour garantir des données propres, automatisées et prêtes à l'emploi.
 
-- **Mon approche :** Ne pas juste consommer la donnée, mais comprendre comment elle circule.
 > **Ma philosophie :** "En faire plus pour en faire moins."  
 > *Investir du temps dans l'automatisation pour libérer de la valeur là où elle compte vraiment.*
+
+- **Mon approche :** Ne pas juste consommer la donnée, mais comprendre comment elle circule.
 - **Mes terrains de jeu :** Le trail running 🏃‍♂️, la NFL 🏈 et les pipelines automatisés ⚙️.
 
 ---
