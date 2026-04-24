@@ -1,10 +1,21 @@
 # 🎯 Corentin Rochard
 
-**Data Analyst @ Industry** ➡️ **Future Data Engineer** *Je construis des ponts entre la donnée brute et la valeur métier.*
+**Data Analyst @ Industrie du luxe** 💎 
+*Analyste passionné qui explore l'ingénierie pour donner plus de puissance à mes projets.*
 
 ---
 
-### 🛠️ Mon Stack technique (Data Lifecycle)
+### 🚀 Au-delà de l'analyse...
+Actuellement en alternance, je dépasse le cadre de la simple analyse pour construire mes propres outils. Ma curiosité me pousse vers le **Data Engineering** pour garantir des données propres, automatisées et prêtes à l'emploi.
+
+- **Mon approche :** Ne pas juste consommer la donnée, mais comprendre comment elle circule.
+> **Ma philosophie :** "En faire plus pour en faire moins."  
+> *Investir du temps dans l'automatisation pour libérer de la valeur là où elle compte vraiment.*
+- **Mes terrains de jeu :** Le trail running 🏃‍♂️, la NFL 🏈 et les pipelines automatisés ⚙️.
+
+---
+
+### 🛠 Mon "Data Toolkit"
 
 | 📥 Ingestion | ⚙️ Transformation | 📊 Visualisation |
 | :--- | :--- | :--- |
@@ -13,22 +24,17 @@
 
 ---
 
-### 🚀 Projets & Passions
-*Quand je ne suis pas en train d'automatiser des pipelines, je suis sur les sentiers ou devant un match.*
+### 🚀 Projets & Passions (Data x Sport)
+*Quand je ne suis pas en train d'automatiser des pipelines, je suis sur les sentiers ou devant le RedZone.*
 
 * 🏃 **Trail & Running** : Analyse de performance et scraping de données de courses.
-* 🏈 **NFL & Fantasy** : Modélisation statistique pour optimiser mes rosters.
+* 🏈 **NFL & Fantasy** : Modélisation statistique pour optimiser mes rosters fantasy.
 
 ---
 
-### 🎓 Parcours en bref
-- 🛠️ **Alternance Data Engineer** | Datascientest (Objectif 2027)
-- 📊 **Certifié Data Analyst** | Wild Code School
-
----
-
-### 📊 Skill Dashboard
-![My Skills Dashboard](./skills_dashboard.png)
+### 🎓 Mon Parcours
+* 🛠️ **En cours** : Vers un titre de **Data Engineer** (Liora - Objectif 2027) pour muscler mon bagage technique.
+* 📊 **Certifié** : **Data Analyst** (Wild Code School).
 
 ---
 
