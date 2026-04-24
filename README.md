@@ -1,66 +1,33 @@
-# 🎯 Corentin Rochard  
-## 🚀 Data Analyst | Data Engineer 
-Bienvenue sur mon profil GitHub ! 🎉  
-Je suis actuellement en reconversion vers le métier de **Data Engineer**. Motivé à relever des défis techniques en apportant des solutions innovantes.
-Actuellement alternant **data Analyst** dans l'industrie en formation **data engineer**.
-Passionné de data et de sport, je partage mes projets sur la course à pied, le trail, la NFL, la fantasy...
-📊 **Collecter, structurer, transformer, valoriser, analyser !**  
----
-## 🔧 Hard Skills  
-### 🖥️ Langages de programmation  
-- 🐍 **Python** : Algorithmie, structures de données, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Scikit-learn**...  
-- 🗄️ **SQL** : Gestion de bases relationnelles (**MySQL, PostgreSQL**), requêtes complexes et optimisation.  
-- 🐧 **Linux & Bash** : Administration système, scripting et automatisation de tâches.  *
+# 🎯 Corentin Rochard
 
-### 🛠️ Outils de développement  
-- 💻 **VS Code** : Mon environnement de développement principal.  
-- 🐬 **Dbeaver / Workbench** : Manipulation efficace de bases SQL.  
-- 📓 **Jupyter Notebook / Google Colab** : Analyses exploratoires.  
-- 🔗 **Git & GitHub** : Versioning, collaboration, branches et open source.  
-- 🐳 **Docker** : Conteneurisation et déploiement d'applications.  
-- 🖥️ **Machines virtuelles** : Virtualisation et gestion d'environnements isolés.
+**Data Analyst @ Industry** ➡️ **Future Data Engineer** *Je construis des ponts entre la donnée brute et la valeur métier.*
 
-### 📦 Bases de données & Entrepôts de données  
-- 🏛️ **MySQL & PostgreSQL** : Conception de schémas, optimisation de requêtes.  
-- 📂 **NoSQL** : Bases adaptées à des cas spécifiques.  
-- 🏢 **Data Warehouse** : Architecture et gestion de données à grande échelle.  
-- ❄️ **Snowflake** : Plateforme cloud pour l'entreposage et l'analyse de données.  
-- ⚙️ **dbt (Data Build Tool)** : Transformation des données dans le processus **ETL**.  
-- 🔄 **Mage AI** : Gestion de **pipelines ETL**, orchestration, automatisation.
-  
-### 📊 Visualisation de données  
-- 📈 **Power BI** : Création de tableaux de bord interactifs avec **DAX**.  
-- 🖥️ **Streamlit** : Développement d'applications web pour la visualisation.  
-- 📌 **Matplotlib, Seaborn, Plotly Express, Folium** : Graphiques et cartes interactives.
-  
-### 🌍 Collecte et intégration de données  
-- 🕷️ **Web Scraping** : Extraction avec **BeautifulSoup** et **Selenium**.  
-- 🔌 **API** : Requêtes et création d'API avec **FastAPI / Flask**.
-  
-### 🤖 Analyse de données & Machine Learning  
-- 🔍 **EDA (Exploratory Data Analysis)** : Analyse exploratoire avec **Pandas, NumPy**.  
-- 📡 **Machine Learning** : Expérience avec **Scikit-learn** (régression, classification, clustering).
-  
-### 📌 Outils & Méthodologies  
-- 🚀 **Méthode Agile (Scrum)** : Gestion de projets en mode agile.  
-- 📋 **Notion** : Organisation et gestion de tâches.  
 ---
-## 🌟 Soft Skills  
-🤝 Travail d'équipe
-🔎 Esprit d'analyse
-🗣️ Communication
-🧩 Résolution de problèmes
-🌱 Adaptabilité
-🧠 Curieux
-👥 Collaboration
-⏰ Gestion du temps
-🗂️ Organisation
+
+### 🛠️ Mon Stack technique (Data Lifecycle)
+
+| 📥 Ingestion | ⚙️ Transformation | 📊 Visualisation |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Mage](https://img.shields.io/badge/-Mage_AI-8C4FFF?style=flat-square) | ![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) |
+| ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+
 ---
-## 🎓 Formations  
-🎯 **Data Engineer RNCP Niveau 7** – *Datascientest* (Septembre 2025 - Septembre 2027)  
-🎓 **Data Analyst RNCP Niveau 6** – *Wild Code School* (Septembre 2024 - Février 2025)  
+
+### 🚀 Projets & Passions
+*Quand je ne suis pas en train d'automatiser des pipelines, je suis sur les sentiers ou devant un match.*
+
+* 🏃 **Trail & Running** : Analyse de performance et scraping de données de courses.
+* 🏈 **NFL & Fantasy** : Modélisation statistique pour optimiser mes rosters.
+* 🔧 **Side Projects** : [Insère un lien vers ton meilleur repo ici]
+
 ---
-## 📫 Contact  
-📧 **Mail** : corentin.rochard@hotmail.com  
-🔗 **LinkedIn** : [Corentin Rochard](https://www.linkedin.com/in/corentin-rochard)  
-🚀 **Prêt à relever de nouveaux défis ? Contactez-moi !** 🚀
+
+### 🎓 Parcours en bref
+- 🛠️ **Alternance Data Engineer** | Datascientest (Objectif 2027)
+- 📊 **Certifié Data Analyst** | Wild Code School
+
+---
+
+### 📫 Let's connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corentin-rochard) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:corentin.rochard@hotmail.com)
