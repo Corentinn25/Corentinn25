@@ -1,14 +1,11 @@
 #  Corentin Rochard
 
 **Data Analyst @ Industrie du luxe** 
-*Analyste passionné qui explore l'engineering pour donner plus de puissance à ses projets.*
+> *Analyste passionné qui explore l'engineering pour donner plus de puissance à ses projets.*
 
-Actuellement en alternance, je dépasse le cadre de la simple analyse pour construire mes propres outils. Ma curiosité me pousse vers le **Data Engineering** pour garantir des données propres, automatisées et prêtes à l'emploi.
-
-> **Ma philosophie :** "En faire plus pour en faire moins."  
+**Mon approche :** "En faire plus pour en faire moins."  
 > *Investir du temps dans l'automatisation pour libérer de la valeur là où elle compte vraiment.*
 
-- **Mon approche :** Ne pas juste consommer la donnée, mais comprendre comment elle circule.
 - **Mes terrains de jeu :** Le trail running et la NFL.
 
 ---
