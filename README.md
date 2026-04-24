@@ -12,7 +12,7 @@ Actuellement en alternance, je dépasse le cadre de la simple analyse pour const
 > *Investir du temps dans l'automatisation pour libérer de la valeur là où elle compte vraiment.*
 
 - **Mon approche :** Ne pas juste consommer la donnée, mais comprendre comment elle circule.
-- **Mes terrains de jeu :** Le trail running 🏃‍♂️, la NFL 🏈 et les pipelines automatisés ⚙️.
+- **Mes terrains de jeu :** Le trail running 🏃‍♂️, la NFL 🏈.
 
 ---
 
