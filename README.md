@@ -18,13 +18,17 @@
 
 * 🏃 **Trail & Running** : Analyse de performance et scraping de données de courses.
 * 🏈 **NFL & Fantasy** : Modélisation statistique pour optimiser mes rosters.
-* 🔧 **Side Projects** : [Insère un lien vers ton meilleur repo ici]
 
 ---
 
 ### 🎓 Parcours en bref
 - 🛠️ **Alternance Data Engineer** | Datascientest (Objectif 2027)
 - 📊 **Certifié Data Analyst** | Wild Code School
+
+---
+
+### 📊 Skill Dashboard
+![My Skills Dashboard](./skills_dashboard.png)
 
 ---
 
